@@ -1,7 +1,10 @@
 
-C:\Users\tayle\Desktop>start https://www.youtube.com/watch?v=QqzXvvdk3bQ  & list=RDQqzXvvdk3bQ  & start_radio=1 
+C:\Users\tayle\Desktop>tree
+Auflistung der Ordnerpfade
+Volumeseriennummer : 0E83-7868
+C:.
++---.unsync
++---4998d6-TrainerV (1)
++---ScriptHookV_3570.0_889.15
+    +---bin
 
-Der Befehl "list" ist entweder falsch geschrieben oder
-konnte nicht gefunden werden.
-Der Befehl "start_radio" ist entweder falsch geschrieben oder
-konnte nicht gefunden werden.
