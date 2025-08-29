@@ -1,10 +1,6 @@
 
-C:\Users\tayle\Desktop>tree
-Auflistung der Ordnerpfade
-Volumeseriennummer : 0E83-7868
-C:.
-+---.unsync
-+---4998d6-TrainerV (1)
-+---ScriptHookV_3570.0_889.15
-    +---bin
+C:\Users\tayle\Desktop>start "" "C:\Program Files\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe" com.epicgames.launcher://apps/Fortnite?action=launch  & silent=true 
 
+Die Datei "C:\Program Files\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe" kann nicht gefunden werden.
+Der Befehl "silent" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
