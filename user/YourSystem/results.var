@@ -1,4 +1,1 @@
-
-C:\Users\YourSystem\Downloads>taskkill  /f /im crome.exe 
-
-FEHLER: Der Prozess "crome.exe" wurde nicht gefunden.
+Fehler bei der Ausführung der Befehle: unsupported operand type(s) for +: 'NoneType' and 'str'
