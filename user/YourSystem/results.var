@@ -1,4 +1,4 @@
 
-C:\Users\YourSystem\Downloads>taskkill /f /im whatsapp.exe 
+C:\Users\YourSystem\Downloads>taskkill /f /im WhatsApp.Root.exe 
+ERFOLGREICH: Der Prozess "WhatsApp.Root.exe" mit PID 2500 wurde beendet.
 
-FEHLER: Der Prozess "whatsapp.exe" wurde nicht gefunden.
