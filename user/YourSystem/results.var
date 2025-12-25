@@ -1,7 +1,1 @@
-
-C:\Users\YourSystem\Downloads>start https://www.youtube.com/watch?v=5XQhBCK-3DE  & list=RD5XQhBCK-3DE  & start_radio=1Q" 
-
-Der Befehl "list" ist entweder falsch geschrieben oder
-konnte nicht gefunden werden.
-Der Befehl "start_radio" ist entweder falsch geschrieben oder
-konnte nicht gefunden werden.
+Fehler bei der Ausführung der Befehle: Command '['temp_commands.bat']' timed out after 60 seconds
