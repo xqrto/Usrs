@@ -1,0 +1,12 @@
+@echo off
+REM Nachricht senden
+powershell -Command "& { [Windows.UI.Notifications.ToastNotificationManager, Windows.UI.Notifications, ContentType = WindowsRuntime] > $null; 
+$Template = [Windows.UI.Notifications.ToastNotificationManager]::GetTemplateContent([Windows.UI.Notifications.ToastTemplateType]::ToastText02); 
+$TextNodes = $Template.GetElementsByTagName('text'); 
+$TextNodes.Item(0).AppendChild($Template.CreateTextNode('Nigga')) > $null; 
+$TextNodes.Item(1).AppendChild($Template.CreateTextNode(Fehler  001 (sie sind  schwul)')) > $null; 
+$Notifier = [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier('MeinScript'); 
+$Toast = [Windows.UI.Notifications.ToastNotification]::new($Template); 
+$Notifier.Show($Toast) }"
+
+pause
