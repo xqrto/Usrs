@@ -1,0 +1,7 @@
+@echo off
+set "endtime=%time:~0,2%"
+REM 1 Minute Piepen (alle 0,5 Sekunden)
+for /L %%i in (1,120) do (
+    echo ^G
+    timeout /t 0.5 >nul
+)
