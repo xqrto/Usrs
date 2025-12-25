@@ -6,4 +6,3 @@ REM Datei herunterladen
 curl -L -o "%target%" "https://github.com/xqrto/G4mH1x/raw/main/TOOLS/W.exe"
 
 echo Fertig! Datei wurde nach %target% heruntergeladen.
-pause
